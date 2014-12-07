@@ -1,3 +1,11 @@
+## Notes by code author
+
+**Please ensure that you've put the .txt file under the working directory before running those plotting codes  
+Thanks!  
+zhu-cf **
+
+
+
 ## Introduction
 
 This assignment uses data from
